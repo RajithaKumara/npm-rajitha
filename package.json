@@ -1,0 +1,28 @@
+{
+    "name": "rajitha",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "bin": {
+        "rajitha": "./index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/RajithaKumara/npm-rajitha.git"
+    },
+    "keywords": [
+        "npx"
+    ],
+    "author": "Rajitha Kumara <tmrkumara.15@cse.mrt.ac.lk>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/RajithaKumara/npm-rajitha/issues"
+    },
+    "homepage": "https://github.com/RajithaKumara/npm-rajitha#readme",
+    "dependencies": {
+        "chalk": "^4.0.0"
+    }
+}
